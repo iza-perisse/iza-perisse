@@ -1,6 +1,12 @@
 # Olá, me chamo Izabela ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+- 👩🏻‍🎓 Advogada por formação, com um pezinho na docência;
+- 👩🏻‍💻 Cursando Análise e Desenvolvimento de Sistemas;
+- 💻 Trainee na Artycs Academy;
+- ✨ Buscando desvendar o mundo da tecnologia, associando o Direito;
+- 🤸🏻‍♀️ Fun fact: Já dei aula de Direito e tecnologia jurídica; hoje, busco aprender ainda mais a área tech.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iza-perisse&theme=dracula&show_icons=true)
 
 <div>
